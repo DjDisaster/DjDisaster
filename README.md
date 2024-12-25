@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
     <img src="https://img.shields.io/static/v1?label=&message=DjDisaster&color=FFC0CB">
 </div>
 <div align="center">
