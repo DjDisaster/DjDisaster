@@ -1,4 +1,4 @@
-<divstyle="text-align: center;">
+<div style="text-align: center;">
   My WakaTime Stats
 </div>
 <div align="center">
