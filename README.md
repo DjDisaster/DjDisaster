@@ -3,5 +3,5 @@
 </div>
 <div align="center">
 <img src="https://wakatime.com/share/@cc367603-282b-4c8c-85e9-3e0ef362b7f5/4462e32d-fe11-452e-855c-37a6bb115c01.svg" width="500" height="400" alt="WakaTime Stats">  
-<img src="https://wakatime.com/share/@cc367603-282b-4c8c-85e9-3e0ef362b7f5/55eef8b1-253c-4bac-b398-f5f46c817c6b.svg" width="500" height="400" alt="WakaTime Stats">  
+<img src="https://wakatime.com/share/@cc367603-282b-4c8c-85e9-3e0ef362b7f5/2255d2d7-5b18-4ce0-a0d9-aabf94bb906f.svg" width="500" height="400" alt="WakaTime Stats">  
 </div>
