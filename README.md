@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=Java > Kotlin&color=FFC0CB" width="200" height="50">
+    <img src="https://img.shields.io/static/v1?label=&message=Java > Kotlin&color=FFC0CB" width="200" height="50"><br>
     nvm kotlin is actually really nice
 </div>
 <div align="center">
