@@ -57,5 +57,4 @@
 	</td>
 
 </table>
-<img src="https://komarev.com/ghpvc/?djdisaster&color=FFC0CB">  
-
+![](https://komarev.com/ghpvc/?username=djdisaster)
