@@ -21,7 +21,7 @@
 			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>
 			<li><a href="https://github.com/DjDisaster/Java3d">Java3d</a> - My second 3D Renderer attempt, only supports cubes</li>
 			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project, a simple 3d renderer that can read .obj files</li>
-			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Use simple tokenisation to compile basic Skript-like syntax. Supports very limited syntax.</li>
+			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Use simple tokenisation to compile basic Skript-like syntax; supports very limited syntax.</li>
 		</ul>  ‎ ‎ ‎ ‎    
 		<!-- I mean if it works it works... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
