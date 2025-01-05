@@ -17,8 +17,8 @@
     <td width="100%" valign="top">
       <h3>Projects</h3>
       <ul>
-        <li>Project 1</li>
-        <li>Project 2</li>
+        <li>Awesome Project 1</li>
+        <li>Amazing Project 2</li>
       </ul>  ‎ ‎ ‎ ‎    
 	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	 </td>
