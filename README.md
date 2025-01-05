@@ -3,7 +3,6 @@
 <table width="100%" align="center">
   <tr>
     <td width="100%" valign="top">
-
 	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
       <h3>Languages</h3>
       <ul>
