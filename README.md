@@ -57,4 +57,5 @@
 	</td>
 
 </table>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=FFC0CB)
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=FFC0CB">  
+
