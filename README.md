@@ -1,10 +1,10 @@
 <h1 align="center">❤️ I love []</h1>
-<a>
-  Languages (Order of favorite)<br>
+<h3>
+  <b>Languages (Order of favorite)</b><br>
   - Java & Kotlin<br>
   - Skript<br>
   - React & JS<br>
   - Python<br>
   - PHP<br>
   - HTML & CSS<br>
-</a>
+</h3>
