@@ -1,4 +1,4 @@
-<h1 align="center">❤️ I love []</h1>
+<h1 align="center">📚 I'm currently learning Kotlin 📚</h1>
 
 <table width="100%" align="center">
 <tr>
