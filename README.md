@@ -18,8 +18,9 @@
 	<td width="60%" valign="top">
 		<h3>Projects</h3>
 		<ul>
-			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>			<li>[Java3d](https://github.com/DjDisaster/Java3d) My second 3d-Renderer Attempt</li>
-			<li>[Kotlin3d](https://github.com/DjDisaster/Kotlin3d) My first Kotlin Project</li>
+			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>
+			<li><a href="https://github.com/DjDisaster/Java3d">Java3d</a> - My second 3D Renderer attempt</li>
+			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project</li>
 		</ul>  ‎ ‎ ‎ ‎    
 		<!-- I mean if it works it works... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
