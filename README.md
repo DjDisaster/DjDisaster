@@ -2,7 +2,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="33%" valign="top">
+    <td width="100%" valign="top">
       <h3>Languages</h3>
       <ul>
         <li>Java & Kotlin</li>
@@ -13,14 +13,14 @@
         <li>HTML & CSS</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="100%" valign="top">
       <h3>Projects</h3>
       <ul>
         <li>Project 1</li>
         <li>Project 2</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="100%" valign="top">
       <h3>Other</h3>
       <ul>
         <li>Item 1</li>
