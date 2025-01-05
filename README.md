@@ -1,5 +1,5 @@
 <h1 align="center">❤️ I love []</h1>
-<h3>
+<a>
   Languages (Order of favorite)<br>
   - Java & Kotlin<br>
   - Skript<br>
@@ -7,4 +7,4 @@
   - Python<br>
   - PHP<br>
   - HTML & CSS<br>
-</h3>
+</a>
