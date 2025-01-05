@@ -28,7 +28,7 @@
 	<td width="20%" valign="top">
 		<h3 align="center">Contact Me</h3>
 		<ul>
-			<li>[Discord](https://discord.gg/9kV7AuyFte)</li>
+			<li><a href="https://discord.gg/9kV7AuyFte">Discord</a></li>
 			</ul>
 		<!-- Yeah... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
