@@ -1,6 +1,6 @@
 <h1 align="center">❤️ I love []</h1>
 
-<div style="line-height: 1.2;">
+<div style="line-height: 0.6;">
   <h3>Languages (Order of favorite):</h3>
   <ul>
     <li><span style="font-weight: bold;">Java & Kotlin</span></li>
