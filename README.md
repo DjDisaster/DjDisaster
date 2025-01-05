@@ -18,8 +18,9 @@
 	<td width="60%" valign="top">
 		<h3>Projects</h3>
 		<ul>
-			<li>Awesome Project 1</li>
-			<li>Amazing Project 2</li>
+			<li>[SkDisaster:](https://github.com/DjDisaster/SkDisaster) A skript addon for Maps, Reactivity and Java run-time compilation</li>
+			<li>[Java3d:](https://github.com/DjDisaster/Java3d) My second 3d-Renderer Attempt</li>
+			<li>[Kotlin3d:](https://github.com/DjDisaster/Kotlin3d) My first Kotlin Project</li>
 		</ul>  ‎ ‎ ‎ ‎    
 		<!-- I mean if it works it works... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
