@@ -34,7 +34,7 @@
 	<td width="20%" valign="top">
 		<h3 align="center">Storage methods by favorite</h3>
 		<ul align="center">
-			<li>Json</li>
+			<li align="center">Json</li>
 			<li>MongoDB</li>
 			<li>OBJ</li>
 			<li>YAML</li>
