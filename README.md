@@ -32,7 +32,6 @@
 			<li>Json</li>
 			<li>YAML/li>
 		</ul>
-		
 		<h3 align="center">Contact Me</h3>
 		<ul>
 			<li><a href="https://discord.gg/9kV7AuyFte">Discord</a></li>
