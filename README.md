@@ -4,7 +4,7 @@
 <tr>
 	<td width="20%" valign="top">
 		<h3>Languages</h3>
-		<a>*ordered by favorite*
+		<i>ordered by favorite</i>
 		<ul>
 			<li>Java & Kotlin</li>
 			<li>Skript</li>
