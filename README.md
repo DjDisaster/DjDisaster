@@ -24,7 +24,7 @@
 			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Use simple tokenisation to compile basic Skript-like syntax; supports very limited syntax.</li>
 		</ul>  ‎ ‎ ‎ ‎    
 		<h3 align="center">Contact Me</h3>
-		<ul>
+		<ul align="center">
 			<li><a href="https://discord.gg/9kV7AuyFte">Discord</a></li>
 			<li><a href="mailto:github@kianmail.uk">Email</a></li>
 		</ul>
@@ -33,8 +33,8 @@
 		</td>
 	<td width="20%" valign="top">
 		<h3 align="center">Storage methods by favorite</h3>
-		<ul align="center">
-			<li align="center">Json</li>
+		<ul>
+			<li>Json</li>
 			<li>MongoDB</li>
 			<li>OBJ</li>
 			<li>YAML</li>
