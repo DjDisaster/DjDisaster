@@ -5,12 +5,12 @@
 	<td width="33%" valign="top">
 		<h3>Languages</h3>
 		<ul>
-		<li>Java & Kotlin</li>
-		<li>Skript</li>
-		<li>React & JS</li>
-		<li>Python</li>
-		<li>PHP</li>
-		<li>HTML & CSS</li>
+			<li>Java & Kotlin</li>
+			<li>Skript</li>
+			<li>React & JS</li>
+			<li>Python</li>
+			<li>PHP</li>
+			<li>HTML & CSS</li>
 		</ul>
 		<!-- I could not found a better way to center in 3 colums -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
