@@ -16,7 +16,7 @@
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	</td>
 	<td width="60%" valign="top">
-		<h3>Projects</h3>
+		<h3 align="center">Projects</h3>
 		<ul>
 			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>
 			<li><a href="https://github.com/DjDisaster/Java3d">Java3d</a> - My second 3D Renderer attempt</li>
@@ -26,7 +26,7 @@
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 		</td>
 	<td width="20%" valign="top">
-		<h3>Other</h3>
+		<h3 align="center">Other</h3>
 		<ul>
 			<li>Item 1</li>
 			<li>Item 2</li>
