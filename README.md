@@ -58,5 +58,5 @@
 
 </table>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=djdisaster&color=dc143c" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=djdisaster&color=FF69B4" alt="Profile Views">
 </p>
