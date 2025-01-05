@@ -33,7 +33,7 @@
 		</td>
 	<td width="20%" valign="top">
 		<h3 align="center">Storage methods by favorite</h3>
-		<ul>
+		<ul align="center">
 			<li>Json</li>
 			<li>MongoDB</li>
 			<li>OBJ</li>
