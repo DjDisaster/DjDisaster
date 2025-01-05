@@ -25,7 +25,7 @@
 		</ul>  ‎ ‎ ‎ ‎    
 		<h3 align="center">Contact Me</h3>
 		<p align="center">
-			<a href="https://discord.gg/9kV7AuyFte">Discord</a> |
+			<a href="https://discord.gg/9kV7AuyFte">Discord</a><br>
 			<a href="mailto:github@kianmail.uk">Email</a>
 		</p>
 		<!-- I mean if it works it works... -->
