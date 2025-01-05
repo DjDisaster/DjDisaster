@@ -30,7 +30,12 @@
 		<h3 align="center">Storage methods by favorite</h3>
 		<ul>
 			<li>Json</li>
+			<li>MongoDB</li>
+			<li>OBJ</li>
 			<li>YAML</li>
+			<li>XML</li>
+			<li>SQL</li>
+			<li>CSV</li>
 		</ul>
 		<h3 align="center">Contact Me</h3>
 		<ul>
