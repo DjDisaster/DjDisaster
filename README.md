@@ -23,6 +23,11 @@
 			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project, a simple 3d renderer that can read .obj files</li>
 			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Use simple tokenisation to compile basic Skript-like syntax; supports very limited syntax.</li>
 		</ul>  ‎ ‎ ‎ ‎    
+		<h3 align="center">Contact Me</h3>
+		<ul>
+			<li><a href="https://discord.gg/9kV7AuyFte">Discord</a></li>
+			<li><a href="mailto:github@kianmail.uk">Email</a></li>
+		</ul>
 		<!-- I mean if it works it works... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 		</td>
@@ -37,11 +42,7 @@
 			<li>SQL</li>
 			<li>CSV</li>
 		</ul>
-		<h3 align="center">Contact Me</h3>
-		<ul>
-			<li><a href="https://discord.gg/9kV7AuyFte">Discord</a></li>
-			<li><a href="mailto:github@kianmail.uk">Email</a></li>
-		</ul>
+
 		<!-- Yeah... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	</td>
