@@ -1,13 +1,9 @@
 <h1 align="center">❤️ I love []</h1>
 
-<div style="line-height: 0.6;">
-  <h3>Languages (Order of favorite):</h3>
-  <ul>
-    <li><span style="font-weight: bold;">Java & Kotlin</span></li>
-    <li><span style="font-weight: normal;">Skript</span></li>
-    <li><span style="font-weight: normal;">React & JS</span></li>
-    <li><span style="font-weight: normal;">Python</span></li>
-    <li><span style="font-weight: normal;">PHP</span></li>
-    <li><span style="font-weight: normal;">HTML & CSS</span></li>
-  </ul>
-</div>
+### Languages (Order of favorite):<br>
+- Java & Kotlin<br>
+- Skript<br>
+- React & JS<br>
+- Python<br>
+- PHP<br>
+- HTML & CSS
