@@ -36,3 +36,13 @@
 	</td>
 </tr>
 </table>
+
+<table width="100%" align="center">
+	<td width="50%" valign="top">
+		<img src="https://wakatime.com/share/@cc367603-282b-4c8c-85e9-3e0ef362b7f5/4462e32d-fe11-452e-855c-37a6bb115c01.svg" width="500" height="400" alt="WakaTime Stats">  
+	</td>
+	<td width="50%" valign="top">
+		<img src="https://wakatime.com/share/@cc367603-282b-4c8c-85e9-3e0ef362b7f5/2255d2d7-5b18-4ce0-a0d9-aabf94bb906f.svg" width="500" height="400" alt="WakaTime Stats">  
+	</td>
+
+</table>
