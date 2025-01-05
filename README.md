@@ -57,4 +57,6 @@
 	</td>
 
 </table>
-![](https://komarev.com/ghpvc/?username=djdisaster)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=djdisaster" alt="Profile Views">
+</p>
