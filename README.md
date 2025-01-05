@@ -50,7 +50,7 @@
 
 <table width="100%" align="center">
 <tr>
-	<td width="25%" valign="top">
+	<td width="30%" valign="top">
 		<h3>Languages</h3>
 		<i>ordered by favorite</i>
 		<ul>
@@ -64,7 +64,7 @@
 		<!-- I could not found a better way to center in 3 colums -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	</td>
-	<td width="50%" valign="top">
+	<td width="40%" valign="top">
 		<h3>Projects</h3>
 		<ul>
 			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>
@@ -74,7 +74,7 @@
 		<!-- I mean if it works it works... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 		</td>
-	<td width="25%" valign="top">
+	<td width="30%" valign="top">
 		<h3>Other</h3>
 		<ul>
 			<li>Item 1</li>
