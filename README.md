@@ -29,7 +29,8 @@
 		<h3 align="center">Contact Me</h3>
 		<ul>
 			<li><a href="https://discord.gg/9kV7AuyFte">Discord</a></li>
-			</ul>
+			<li><a href="mailto:github@kianmail.uk">Email</a></li>
+		</ul>
 		<!-- Yeah... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	</td>
