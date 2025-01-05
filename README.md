@@ -1,31 +1,11 @@
-<h1 align="center">❤️ I love []</h1>
-
-<table style="width:100%; table-layout: fixed;">
-  <tr>
-    <td style="width:33.33%;">
-      <h3>Languages</h3>
-      <ul>
-        <li>Java & Kotlin</li>
-        <li>Skript</li>
-        <li>React & JS</li>
-        <li>Python</li>
-        <li>PHP</li>
-        <li>HTML & CSS</li>
-      </ul>
-    </td>
-    <td style="width:33.33%;">
-      <h3>Projects</h3>
-      <ul>
-        <li>Project 1 (epic)</li>
-        <li>Project 2</li>
-      </ul>
-    </td>
-    <td style="width:33.33%;">
-      <h3>Other</h3>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        test
+    </div>
+    <div style="display: inline-block;">
+        test2
+    </div>
+    <div style="display: inline-block;">
+        test3
+    </div>
+</div>
