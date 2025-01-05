@@ -3,7 +3,7 @@
 <table width="100%" align="center">
 <tr>
 	<td width="20%" valign="top">
-		<h3>Languages by favorite</h3>
+		<h3 align="center">Languages by favorite</h3>
 		<ul>
 			<li>Java & Kotlin</li>
 			<li>Skript</li>
