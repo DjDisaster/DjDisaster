@@ -5,13 +5,6 @@
 	<td width="20%" valign="top">
 		<h3>Languages</h3>
 		<a>*ordered by favorite*
-		<ul>a<h1 align="center">❤️ I love []</h1>
-
-<table width="100%" align="center">
-<tr>
-	<td width="20%" valign="top">
-		<h3>Languages</h3>
-		*ordered by favorite*
 		<ul>
 			<li>Java & Kotlin</li>
 			<li>Skript</li>
@@ -54,7 +47,14 @@
 	</td>
 
 </table>
+a<h1 align="center">❤️ I love []</h1>
 
+<table width="100%" align="center">
+<tr>
+	<td width="20%" valign="top">
+		<h3>Languages</h3>
+		<i>ordered by favorite</i>
+		<ul>
 			<li>Java & Kotlin</li>
 			<li>Skript</li>
 			<li>React & JS</li>
