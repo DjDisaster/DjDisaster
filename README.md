@@ -46,5 +46,3 @@
 	</td>
 
 </table>
-<h1 align="center">❤️ I love []</h1>
-
