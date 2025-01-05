@@ -30,7 +30,7 @@
 		<h3 align="center">Storage methods by favorite</h3>
 		<ul>
 			<li>Json</li>
-			<li>YAML/li>
+			<li>YAML</li>
 		</ul>
 		<h3 align="center">Contact Me</h3>
 		<ul>
