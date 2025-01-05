@@ -23,7 +23,7 @@
 			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project, a simple 3d renderer that can read .obj files</li>
 			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Uses simple tokenisation to convert basic Skript-like syntax into Java; supports very limited syntax.</li>
 		</ul>  ‎ ‎ ‎ ‎    
-		<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FFC0CB&center=false&lines=Contact+me" alt="Contact Me Section">  
+		<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FFC0CB&center=false&lines=Contact+me" align="center" alt="Contact Me Section">  
 		<p align="center">
 			<a href="https://discord.gg/9kV7AuyFte">Discord</a> &nbsp; | &nbsp;
 			<a href="mailto:github@kianmail.uk">Email</a>
