@@ -3,6 +3,8 @@
 <table width="100%" align="center">
   <tr>
     <td width="100%" valign="top">
+
+	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
       <h3>Languages</h3>
       <ul>
         <li>Java & Kotlin</li>
@@ -12,7 +14,6 @@
         <li>PHP</li>
         <li>HTML & CSS</li>
       </ul>
-	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
     </td>
     <td width="100%" valign="top">
       <h3>Projects</h3>
