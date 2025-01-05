@@ -20,7 +20,7 @@
 		<ul>
 			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>
 			<li><a href="https://github.com/DjDisaster/Java3d">Java3d</a> - My second 3D Renderer attempt</li>
-			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project</li>
+			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project, a simple 3d renderer that can read .obj files</li>
 		</ul>  ‎ ‎ ‎ ‎    
 		<!-- I mean if it works it works... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
