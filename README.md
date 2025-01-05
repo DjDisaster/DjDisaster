@@ -28,8 +28,8 @@
 	<td width="20%" valign="top">
 		<h3 align="center">Other</h3>
 		<ul>
-			<li>Item 1</li>
-			<li>Item 2</li>
+			<li>Will be </li>
+			<li>Added later</li>
 			</ul>
 		<!-- Yeah... -->
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
