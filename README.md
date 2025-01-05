@@ -2,9 +2,9 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="100%" valign="top">
-	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+    <td width="33%" valign="top">
       <h3>Languages</h3>
+	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
       <ul>
         <li>Java & Kotlin</li>
         <li>Skript</li>
@@ -14,7 +14,7 @@
         <li>HTML & CSS</li>
       </ul>
     </td>
-    <td width="100%" valign="top">
+    <td width="33%" valign="top">
       <h3>Projects</h3>
       <ul>
         <li>Awesome Project 1</li>
@@ -22,7 +22,7 @@
       </ul>  ‎ ‎ ‎ ‎    
 	  	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	 </td>
-    <td width="100%" valign="top">
+    <td width="33%" valign="top">
       <h3>Other</h3>
       <ul>
         <li>Item 1</li>
