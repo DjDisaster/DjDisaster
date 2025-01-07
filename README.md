@@ -18,7 +18,7 @@
 	<td width="60%" valign="top">
 		<h2 align="center">Projects</h3>
 		<ul>
-			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and Java runtime compilation</li>
+			<li><a href="https://github.com/DjDisaster/SkDisaster">SkDisaster</a> - A skript addon for Maps, Reactivity, and runtime Java compilation</li>
 			<li><a href="https://github.com/DjDisaster/Java3d">Java3d</a> - My second 3D Renderer attempt, only supports cubes</li>
 			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project, a simple 3d renderer that can read .obj files</li>
 			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Uses simple tokenisation to convert basic Skript-like syntax into Java; supports very limited syntax.</li>
