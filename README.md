@@ -5,7 +5,7 @@
 	<td width="20%" valign="top">
 		<h3 align="center">Languages by favorite</h3>
 		<ul>
-			<li>Java & Kotlin</li>
+			<li>Kotlin & Java</li>
 			<li>Skript</li>
 			<li>React & JS</li>
 			<li>Python</li>
