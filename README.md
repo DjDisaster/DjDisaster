@@ -1,4 +1,4 @@
-<h1 align="center">📚 I'm currently learning Kotlin 📚</h1>
+<h1 align="center">📚 I'm currently learning C++ 📚</h1>
 
 <table width="100%" align="center">
 <tr>
@@ -22,6 +22,7 @@
 			<li><a href="https://github.com/DjDisaster/Java3d">Java3d</a> - My second 3D Renderer attempt, only supports cubes</li>
 			<li><a href="https://github.com/DjDisaster/Kotlin3d">Kotlin3d</a> - My first Kotlin Project, a simple 3d renderer that can read .obj files</li>
 			<li><a href="https://github.com/DjDisaster/SkriptTranspiler">SkriptTranspiler</a> - Uses simple tokenisation to convert basic Skript-like syntax into Java; supports very limited syntax.</li>
+			<li><a href="https://github.com/DjDisaster/Skript-Collection">Skript-Collection</a> A simple collection of skripts, featuring Dialogs, HTTP request support and Mannequins</li>
 		</ul>  ‎ ‎ ‎ ‎    
 		<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FFC0CB&center=true&lines=Contact+me" width="100%" alt="Contact Me Section">  
 		<p align="center">
