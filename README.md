@@ -7,6 +7,7 @@
 		<ul>
 			<li>Kotlin & Java</li>
 			<li>Skript</li>
+			<li>C & C++</li>
 			<li>React & JS</li>
 			<li>Python</li>
 			<li>PHP</li>
