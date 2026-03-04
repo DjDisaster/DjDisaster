@@ -53,7 +53,7 @@
 <table width="100%" align="center">
 	<td width="50%" valign="top">
 		<img src="https://wakatime.com/share/@djdisaster/944ed451-aa31-4460-9c4d-48fbf35130e2.svg"  height="400" alt="WakaTime Stats">  
-		test
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	</td>
 	<td width="50%" valign="top">
 		<img src="https://wakatime.com/share/@djdisaster/4aa96152-1a07-42cb-8c5f-93513f2b83cd.svg" height="400" alt="WakaTime Stats">  
