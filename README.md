@@ -52,10 +52,10 @@
 
 <table width="100%" align="center">
 	<td width="50%" valign="top">
-		<img src="https://wakatime.com/share/@djdisaster/0363995d-c7fe-40ba-b70a-6167386c89df.svg"  height="400" alt="WakaTime Stats">  
+		<img src="https://wakatime.com/share/@djdisaster/944ed451-aa31-4460-9c4d-48fbf35130e2.svg"  height="400" alt="WakaTime Stats">  
 	</td>
 	<td width="50%" valign="top">
-		<img src="https://wakatime.com/share/@djdisaster/5cfbd1fa-8c87-40bd-b393-ecc6bfa0df34.svg" height="400" alt="WakaTime Stats">  
+		<img src="https://wakatime.com/share/@djdisaster/4aa96152-1a07-42cb-8c5f-93513f2b83cd.svg" height="400" alt="WakaTime Stats">  
 	</td>
 
 </table>
